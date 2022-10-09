@@ -3,29 +3,29 @@ h2 align="center"> Linux Course </h2>
 <p align="center">
   
   </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/PostgreSQL-Training?color=red">
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Linux-Course?color=red">
   </a>
-  <a href="https://github.com/BrianMarquez3/PostgreSQL-Training/stargazers">
-    <img src="https://img.shields.io/github/stars/BrianMarquez3/PostgreSQL-Training.svg?style=flat" alt="Stars">
+  <a href="https://github.com/BrianMarquez3/Linux-Course/stargazers">
+    <img src="https://img.shields.io/github/stars/BrianMarquez3/Linux-Course.svg?style=flat" alt="Stars">
   </a>
-  <a href="https://github.com/BrianMarquez3/PostgreSQL-Training/network">
-    <img src="https://img.shields.io/github/forks/BrianMarquez3/PostgreSQL-Training.svg?style=flat" alt="Forks">
+  <a href="https://github.com/BrianMarquez3/Linux-Course/network">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/Linux-Course.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/PostgreSQL-Training?color=blue&label=Version&logo=PostgreSQL">
-  </a>
-  </a>
-    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/PostgreSQL-Training">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/PLinux-Course?color=blue&label=Version&logo=PostgreSQL">
   </a>
   </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/PostgreSQL-Training/total?color=blue">
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Linux-Course">
   </a>
   </a>
-   <a href="https://github.com/BrianMarquez3/PostgreSQL-Training/network">
-    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Linux-Course/total?color=blue">
+  </a>
+  </a>
+   <a href="https://github.com/BrianMarquez3/Linux-Course
+   /network">
     <img src="https://img.shields.io/badge/Plataform-Linux-darkblue">
   </a><br>
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/PostgreSQL-Training?color=darkblue&style=for-the-badge">
-  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/PostgreSQL-Training?style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Linux-Course?color=darkblue&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Linux-Course?style=for-the-badge">
 </P>
 
 <table align="center">
