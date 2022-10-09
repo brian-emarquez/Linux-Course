@@ -89,6 +89,10 @@ history | grep chwon
 
 </table>
 
+## Install NodeJs Ubuntu
+
+[How To Install Node.js on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
+
 
 ## Paypal Donation
 ☕ Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
