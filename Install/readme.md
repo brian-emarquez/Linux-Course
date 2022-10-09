@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/desktop.png" />
+      <img align="center" style="padding=0;" src="../images/desktop.png" />
     </td>
   </tr>
 </table>
@@ -18,7 +18,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/ubuntu.png" />
+      <img align="center" style="padding=0;" src="../images/ubuntu.png" />
     </td>
   </tr>
 </table>
