@@ -11,7 +11,7 @@ h2 align="center"> Linux Course </h2>
   <a href="https://github.com/BrianMarquez3/Linux-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Linux-Course.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/PLinux-Course?color=blue&label=Version&logo=PostgreSQL">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Linux-Course?color=blue&label=Version&logo=Ubuntu">
   </a>
   </a>
     <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Linux-Course">
@@ -38,11 +38,52 @@ h2 align="center"> Linux Course </h2>
 
 [Ubuntu](https://ubuntu.com/download)
 
-## Table of Contents
+<!-- ## Table of Contents
 
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
-|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Instalacion](#Instalacion)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Instalacion](#Instalacion)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|  -->
+
+## Commands
+
+
+_Linux - Update_
+
+```bash 
+sudo apt-get update
+sudo apt-get upgrade
+```
+
+
+_Eliminar  APT Ubuntu_
+
+```bash
+sudo apt remove nombre
+sudo apt purge nombre
+```
+
+
+_Admin Linux_
+
+```bash
+sudo chown -R briandb api.9780p2p_back
+sudo chmod -R 777 api.9780p2p_back
+```
+
+
+_Ver Puertos Libres_
+
+```bash
+sudo ufw status verbose
+```
+
+
+_History_
+
+```bash
+history | grep chwon
+```
+
 
 ---
 
