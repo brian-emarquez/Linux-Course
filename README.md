@@ -1,4 +1,4 @@
-<h2 align="center"> Linux Operating System </h2>
+<h2 align="center"> Linux Operating System (Ubuntu) </h2>
 
 <p align="center">
   
@@ -44,16 +44,14 @@ Download - [Ubuntu](https://ubuntu.com/download)
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
 |  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Instalacion](#Instalacion)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|  -->
 
-## Commands
+## Main Commands
 
-
-_Linux - Update_
+*Linux - Update*
 
 ```bash 
 sudo apt-get update
 sudo apt-get upgrade
 ```
-
 
 _Eliminar  APT Ubuntu_
 
@@ -62,7 +60,6 @@ sudo apt remove nombre
 sudo apt purge nombre
 ```
 
-
 _Admin Linux_
 
 ```bash
@@ -70,18 +67,34 @@ sudo chown -R briandb api.9780p2p_back
 sudo chmod -R 777 api.9780p2p_back
 ```
 
-
 _Ver Puertos Libres_
 
 ```bash
 sudo ufw status verbose
 ```
 
-
 _History_
 
 ```bash
 history | grep chwon
+```
+
+_Cambiar una contraseña de usuario_
+
+[Cómo cambiar una contraseña de usuario en Ubuntu](https://marquesfernandes.com/es/tecnologia-es/como-cambiar-una-contrasena-de-usuario-en-linux-ubuntu/)
+
+```bash
+sudo passwd brian
+sudo passwd brian2
+```
+
+
+* Eliminart Usuario Ubuntu
+
+[Eliminar Usuario](https://vivaubuntu.com/eliminar-usuarios-en-ubuntu/)
+
+```bash
+sudo userdel –remove-home nombredeusuario
 ```
 
 
