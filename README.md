@@ -52,6 +52,9 @@ open source from cloud to desktop and devices. - [Canonical](https://canonical.c
 
 * Install a complete Ubuntu terminal environment in minutes on Windows with Windows Subsystem for Linux (WSL). - [Ubuntu on WSL](https://ubuntu.com/wsl)
 
+* Install NodeJs Ubuntu [How To Install Node.js on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
+
+
 ## Commands
 
 *Linux - Update*
@@ -61,14 +64,14 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 
-_Eliminar  APT Ubuntu_
+_Eliminar APT Ubuntu_
 
 ```bash
 sudo apt remove nombre
 sudo apt purge nombre
 ```
 
-_Admin Linux_
+_Admin Linux(NoPermissions)_
 
 ```bash
 sudo chown -R briandb api.9780p2p_back
@@ -104,7 +107,6 @@ sudo passwd brian2
 sudo userdel –remove-home nombredeusuario
 ```
 
-
 _Memory usage on linux_
 
 ```bash
@@ -130,17 +132,41 @@ _Espacio en uso_
 df -h
 ```
 
+_UFW_
+
+```bash
+sudo ufw status
+sudo ufw enable
+sudo ufw disable
+```
+
+_Abrir puertos_
+
+```bash
+sudo ufw allow 8000
+```
+
+_Cerrar puertos_
+
+```bash
+fuser -k 8080
+```
+
+_Ingresar a Docker_
+
+```bash
+docker exec -it 02e3e2feabaa bash;
+```
+
+
+
+
 ---
 
-</table>
-
-## Install NodeJs Ubuntu
-
-[How To Install Node.js on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
-
+* Django with Postgres Nginx and Gunicorn Deploy - [Ngnix](https://github.com/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn)
 
 ## Paypal Donation
-☕ Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+🍵 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y)
 
 ---
 
