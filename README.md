@@ -33,15 +33,26 @@
   </tr>
 </table>
 
-Download Ubuntu desktop and replace your current operating system whether it’s Windows or macOS or run Ubuntu alongside it. - [Ubuntu downloads](https://ubuntu.com/download)
+Deliver, maintain,secure and sustain
+open source from cloud to desktop and devices. - [Canonical](https://canonical.com/?_ga=2.48751398.1684371827.1666286236-2002334820.1666286236)
 
-<!-- ## Table of Contents
+## Table of Contents
 
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
-|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Instalacion](#Instalacion)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|  -->
+|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Instalation](#Instalation)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  002   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Commands](#Commands)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
-## Main Commands
+
+---
+
+## Instalation
+
+* Download Ubuntu desktop and replace your current operating system whether it’s Windows or macOS or run Ubuntu alongside it. - [Ubuntu downloads](https://ubuntu.com/download)
+
+* Install a complete Ubuntu terminal environment in minutes on Windows with Windows Subsystem for Linux (WSL). - [Ubuntu on WSL](https://ubuntu.com/wsl)
+
+## Commands
 
 *Linux - Update*
 
