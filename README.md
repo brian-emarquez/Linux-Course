@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-Download - [Ubuntu](https://ubuntu.com/download)
+Download Ubuntu desktop and replace your current operating system whether it’s Windows or macOS or run Ubuntu alongside it. - [Ubuntu](https://ubuntu.com/download)
 
 <!-- ## Table of Contents
 
