@@ -96,7 +96,6 @@ sudo passwd brian
 sudo passwd brian2
 ```
 
-
 * Eliminart Usuario Ubuntu
 
 [Eliminar Usuario](https://vivaubuntu.com/eliminar-usuarios-en-ubuntu/)
@@ -105,6 +104,31 @@ sudo passwd brian2
 sudo userdel –remove-home nombredeusuario
 ```
 
+
+_Memory usage on linux_
+
+```bash
+free -m
+```
+
+
+_Ver Procesos_
+
+```bash
+ps -aux
+```
+
+_Espacio en uso_
+
+```bash
+df -h
+```
+
+_Espacio en uso_
+
+```bash
+df -h
+```
 
 ---
 
