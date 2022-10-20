@@ -13,13 +13,10 @@
   </a>
     <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Linux-Course?color=blue&label=Version&logo=Ubuntu">
   </a>
-  </a>
-    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Linux-Course">
-  </a>
-  </a>
+  <a>
     <img src="https://img.shields.io/github/downloads/BrianMarquez3/Linux-Course/total?color=blue">
   </a>
-  </a>
+  <a>
    <a href="https://github.com/BrianMarquez3/Linux-Course
    /network">
     <img src="https://img.shields.io/badge/Plataform-Linux-darkblue">
