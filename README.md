@@ -28,7 +28,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/ubuntu-orange.png" />
+      <img align="center" style="padding=0;" src="./images/rterknpo4wz61.webp" />
     </td>
   </tr>
 </table>
