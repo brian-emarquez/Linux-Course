@@ -40,8 +40,9 @@ open source from cloud to desktop and devices. - [Canonical](https://canonical.c
 
 | Numeration   | Check       | Stiker        |    Topic      |   Information   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
-|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/sn2PIe598RFnHQBX9v/giphy.gif" width="25px"> | [Instalation](#Instalation)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  002   |:heavy_check_mark: |<img src="https://media.giphy.com/media/sn2PIe598RFnHQBX9v/giphy.gif" width="25px"> | [Commands](#Commands)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/THaIXJAiaX8giuTrAN/giphy.gif" width="25px"> | [Instalation](#Instalation)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  002   |:heavy_check_mark: |<img src="https://media.giphy.com/media/THaIXJAiaX8giuTrAN/giphy.gif" width="25px"> | [Commands](#Commands)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  002   |:heavy_check_mark: |<img src="https://media.giphy.com/media/xndHaRIcvge5y/giphy.gif" width="25px"> | [Commands](#Commands)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)
 
 
 ---
