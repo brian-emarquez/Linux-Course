@@ -57,6 +57,12 @@ open source from cloud to desktop and devices. - [Canonical](https://canonical.c
 
 ## Commands
 
+_Version de Linux_
+
+```bash
+lsb_release -a
+```
+
 *Linux - Update*
 
 ```bash 
