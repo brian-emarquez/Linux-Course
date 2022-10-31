@@ -163,8 +163,17 @@ _Ingresar a Docker_
 docker exec -it 02e3e2feabaa bash;
 ```
 
+ _Ver usuario en postgres_
 
+```bash
+cat /etc/group;
+```
 
+_Borrar Usuario Postgres_
+
+```bash
+sudo deluser username;
+```
 
 ---
 
@@ -182,7 +191,7 @@ docker exec -it 02e3e2feabaa bash;
       </tr>
       <tr>
         <td>C</td>
-      <td colspan="2"><img align="center" style="padding=0;" src="./images/ondas.gif" /></td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/qq.gif" /></td>
         <td>E</td>
       </tr>
       <tr>
