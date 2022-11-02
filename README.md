@@ -76,23 +76,44 @@ sudo apt remove nombre
 sudo apt purge nombre
 ```
 
+_History_
+
+```bash
+history | grep chwon
+```
+
 _Admin Linux(NoPermissions)_
 
 ```bash
 sudo chown -R briandb api.9780p2p_back
 sudo chmod -R 777 api.9780p2p_back
 ```
-
+**UFW**
 _Ver Puertos Libres_
 
 ```bash
 sudo ufw status verbose
 ```
+**UFW**
 
-_History_
+[UFW](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-20-04-es)
 
 ```bash
-history | grep chwon
+sudo ufw status
+sudo ufw enable
+sudo ufw disable
+```
+
+_Abrir puertos_
+
+```bash
+sudo ufw allow 8000
+```
+
+_Cerrar puertos_
+
+```bash
+fuser -k 8080
 ```
 
 _Cambiar una contraseña de usuario_
@@ -118,7 +139,6 @@ _Memory usage on linux_
 free -m
 ```
 
-
 _Ver Procesos_
 
 ```bash
@@ -135,26 +155,6 @@ _Espacio en uso_
 
 ```bash
 df -h
-```
-
-_UFW_
-
-```bash
-sudo ufw status
-sudo ufw enable
-sudo ufw disable
-```
-
-_Abrir puertos_
-
-```bash
-sudo ufw allow 8000
-```
-
-_Cerrar puertos_
-
-```bash
-fuser -k 8080
 ```
 
 _Ingresar a Docker_
