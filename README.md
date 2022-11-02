@@ -90,13 +90,14 @@ sudo chmod -R 777 api.9780p2p_back
 ```
 **UFW**
 
-[UFW](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-20-04-es)
+[Cómo configurar un firewall con UFW en Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-20-04-es)
  
 _Ver Puertos Libres_
 
 ```bash
 sudo ufw status verbose
 ```
+_Activar UFW_
 
 ```bash
 sudo ufw status
