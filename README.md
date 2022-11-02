@@ -89,14 +89,14 @@ sudo chown -R briandb api.9780p2p_back
 sudo chmod -R 777 api.9780p2p_back
 ```
 **UFW**
+
+[UFW](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-20-04-es)
+ 
 _Ver Puertos Libres_
 
 ```bash
 sudo ufw status verbose
 ```
-**UFW**
-
-[UFW](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-20-04-es)
 
 ```bash
 sudo ufw status
