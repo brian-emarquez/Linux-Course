@@ -47,11 +47,13 @@ open source from cloud to desktop and devices. - [Canonical](https://canonical.c
 
 ## Instalation
 
-* Download Ubuntu desktop and replace your current operating system whether it’s Windows or macOS or run Ubuntu alongside it. - [Ubuntu downloads](https://ubuntu.com/download)
+* 📦 Download Ubuntu desktop and replace your current operating system whether it’s Windows or macOS or run Ubuntu alongside it. - [Ubuntu downloads](https://ubuntu.com/download)
 
-* Install a complete Ubuntu terminal environment in minutes on Windows with Windows Subsystem for Linux (WSL). - [Ubuntu on WSL](https://ubuntu.com/wsl)
+* 📦  Download, Install a complete Ubuntu terminal environment in minutes on Windows with Windows Subsystem for Linux (WSL). - [Ubuntu on WSL](https://ubuntu.com/wsl)
 
-* Install NodeJs Ubuntu [How To Install Node.js on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
+* 📦  Download, Install NodeJs Ubuntu [How To Install Node.js on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
+
+* 📦  [Download Postgresql](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
 
 
 ## Commands
