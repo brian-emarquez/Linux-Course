@@ -53,7 +53,7 @@ open source from cloud to desktop and devices. - [Canonical](https://canonical.c
 
 * 📦  Download, Install NodeJs Ubuntu [How To Install Node.js on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
 
-* 📦  [Download Postgresql](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
+* 📦  [Download PostgreSQL](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
 
 
 ## Commands
