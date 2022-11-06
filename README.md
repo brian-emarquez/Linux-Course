@@ -57,6 +57,10 @@ open source from cloud to desktop and devices. - [Canonical](https://canonical.c
 
 * 📦  [Docker on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04) How To Install and Use Docker on Ubuntu
 
+```bash
+sudo service docker status
+```
+
 
 ## Commands
 
