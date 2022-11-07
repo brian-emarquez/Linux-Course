@@ -77,6 +77,10 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 
+```bash 
+apt-get update && apt-get upgrade
+```
+
 _Eliminar APT Ubuntu_
 
 ```bash
