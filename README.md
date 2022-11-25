@@ -47,6 +47,8 @@ open source from cloud to desktop and devices. - [Canonical](https://canonical.c
 
 ## Instalation
 
+<p>Fundamental Programs</p>
+
 * 📦 [Ubuntu downloads](https://ubuntu.com/download) ownload Ubuntu desktop and replace your current operating system whether it’s Windows or macOS or run Ubuntu alongside it. -
 
 * 📦 [Ubuntu on WSL](https://ubuntu.com/wsl) Download, Install a complete Ubuntu terminal environment in minutes on Windows with Windows Subsystem for Linux (WSL).
@@ -56,6 +58,9 @@ open source from cloud to desktop and devices. - [Canonical](https://canonical.c
 * 📦  [Download PostgreSQL](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es) The world's most advanced open source database
 
 * 📦  [Docker on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04) How To Install and Use Docker on Ubuntu
+
+* 📦  [Redis on Ubuntu](https://redis.io/docs/getting-started/installation/install-redis-on-linux/) Install Redis on Linux
+
 
 ```bash
 sudo service docker status
