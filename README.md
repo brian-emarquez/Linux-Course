@@ -61,11 +61,9 @@ open source from cloud to desktop and devices. - [Canonical](https://canonical.c
 
 * 📦  [Redis on Ubuntu](https://redis.io/docs/getting-started/installation/install-redis-on-linux/) Install Redis on Linux
 
-
 ```bash
 sudo service docker status
 ```
-
 
 ## Commands
 
