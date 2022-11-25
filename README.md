@@ -59,10 +59,16 @@ open source from cloud to desktop and devices. - [Canonical](https://canonical.c
 
 * 📦  [Docker on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04) How To Install and Use Docker on Ubuntu
 
+```bash
+sudo service docker status
+```
+
 * 📦  [Redis on Ubuntu](https://redis.io/docs/getting-started/installation/install-redis-on-linux/) Install Redis on Linux
 
 ```bash
-sudo service docker status
+redis-server
+redis-cli
+redis-cli -v
 ```
 
 ## Commands
