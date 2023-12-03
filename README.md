@@ -36,14 +36,6 @@
 Deliver, maintain,secure and sustain
 open source from cloud to desktop and devices. - [Canonical](https://canonical.com/?_ga=2.48751398.1684371827.1666286236-2002334820.1666286236)
 
-## Table of Contents
-
-| Numeration   | Check       | Stiker        |    Topic      |   Information   |    Edit Gitpot    |    Downloads    |  link  |
-| ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
-|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/THaIXJAiaX8giuTrAN/giphy.gif" width="25px"> | [Instalation](#Instalation)   | ✔️    | <img src="https://media.giphy.com/media/pQEsZ5EdCMBOXXgUq4/giphy.gif" width="25px"> | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  002   |:heavy_check_mark: |<img src="https://media.giphy.com/media/THaIXJAiaX8giuTrAN/giphy.gif" width="25px"> | [Commands](#Commands)   | ✔️    | <img src="https://media.giphy.com/media/pQEsZ5EdCMBOXXgUq4/giphy.gif" width="25px"> | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-
----
 
 ## Instalation
 
