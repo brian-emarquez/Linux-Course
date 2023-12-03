@@ -206,7 +206,7 @@ sudo deluser username;
       </tr>
       <tr>
         <td>C</td>
-      <td colspan="2"><img align="center" style="padding=0;" src="./assets/qq.gif" /></td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./assets/circle.gif" /></td>
         <td>E</td>
       </tr>
       <tr>
