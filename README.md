@@ -28,7 +28,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/particulas001.gif" />
+      <img align="center" style="padding=0;" src="./assets/particulas001.gif" />
     </td>
   </tr>
 </table>
@@ -194,6 +194,7 @@ sudo deluser username;
 * Django with Postgres Nginx and Gunicorn Deploy - [Ngnix](https://github.com/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn)
 
 ## Paypal Donation
+
 🍵 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y)
 
 ---
@@ -205,7 +206,7 @@ sudo deluser username;
       </tr>
       <tr>
         <td>C</td>
-      <td colspan="2"><img align="center" style="padding=0;" src="./images/qq.gif" /></td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./assets/qq.gif" /></td>
         <td>E</td>
       </tr>
       <tr>
