@@ -1,6 +1,6 @@
-# Project Name
+#   CROSSOVER - OFFICE 365 UBUNTU
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+🔗 Link - [Crossover](https://ucsmedu-my.sharepoint.com/:f:/g/personal/47092136_ucsm_edu_pe/EpOnonv4TJtHokKnAl_XvjgBSQvr_du8FqOZwWGh_mSiHA?e=qC5At4)
 
 ## Description
 
@@ -13,18 +13,3 @@ A brief description of your project.
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
-
-Instructions on how to install and set up your project.
-
-## Usage
-
-Instructions on how to use your project.
-
-## Contributing
-
-Guidelines on how others can contribute to your project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
